@@ -98,3 +98,4 @@ insert into article (title, content, hashtag, created_by, modified_by, created_a
 insert into article (title, content, hashtag, created_by, modified_by, created_at, modified_at) values ('Donec dapibus.', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', null, 'Gard', 'Colly', '2024-02-19 16:18:22', '2023-12-18 07:07:26');
 insert into article (title, content, hashtag, created_by, modified_by, created_at, modified_at) values ('Etiam vel augue.', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', null, 'Nissy', 'Terence', '2024-05-04 11:50:10', '2024-03-25 13:53:54');
 insert into article (title, content, hashtag, created_by, modified_by, created_at, modified_at) values ('Nam dui.', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.', 'Khaki', 'Kinna', 'Mirna', '2023-12-31 08:14:41', '2024-01-10 02:00:23');
+
