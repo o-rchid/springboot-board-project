@@ -1,4 +1,4 @@
-package fastcapus.boardproject;
+package fastcampus.boardproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
